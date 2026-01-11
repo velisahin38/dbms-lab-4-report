@@ -25,7 +25,7 @@ Aşağıda kutucuk (checkbox) ile gösterilen maddelerden en az birini seçtiği
 
 - [ ]  Veritabanları, Sık kullanılan sayfaları bellekte (RAM) kopyalar mı (caching) ?
 
-- [ ]  LRU / CLOCK gibi algoritmaları
+- [x]  LRU / CLOCK gibi algoritmaları
 - [ ]  Diske yapılan I/O nasıl minimize ederler?
 
 # 2. Veri Yapıları Perspektifi
