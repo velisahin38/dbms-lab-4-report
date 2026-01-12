@@ -56,7 +56,7 @@ DB diske yazarken:
 
 ---
 
-# Video [Linki](https://www.youtube.com/watch?v=Nw1OvCtKPII&t=2635s) 
+# Video [Linki](https://youtu.be/dgHlb0y-NEA) 
 Ekran kaydı. 2-3 dk. açık kaynak V.T. kodu üzerinde konunun gösterimi. Video kendini tanıtma ile başlamalıdır (Numara, İsim, Soyisim, Teknik İlgi Alanları). 
 
 ---
@@ -75,8 +75,5 @@ Sonuç: Yapılan inceleme sonucunda; Clock Sweep algoritmasının, veri yapısı
 
 ## VT Üzerinde Gösterilen Kaynak Kodları
 
-Açıklama [Linki](https://...) \
-Açıklama [Linki](https://...) \
-Açıklama [Linki](https://...) \
-... \
-...
+LRU ve Clock Sweep [Linki](https://github.com/chen3593/PostgreSQL/blob/master/freelist.c) \
+
